@@ -25,4 +25,4 @@ jobs:
           dotnet build
       
       - name: Build docker image
-        run: docker build -t 4hnxd/dockerTest .
+        run: docker build -t 4hnxd/dockertest .
